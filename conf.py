@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Epson Printer Problems'
 
 
 # The full version, including alpha/beta/rc tags
